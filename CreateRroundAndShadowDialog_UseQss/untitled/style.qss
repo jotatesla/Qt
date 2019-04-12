@@ -1,0 +1,10 @@
+// #后面是ID选择器，对应object name
+QWidget#frame
+{
+	background-color:gray;
+	border-top-left-radius:15px;
+	border-top-right-radius:15px;
+	border-bottom-left-radius:15px;
+	border-bottom-right-radius:15px;
+}
+
